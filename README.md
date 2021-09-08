@@ -16,4 +16,15 @@ After the data was imported properly, queries could be performed to make
 sense of the data and possible relationships. The queries consisted of select 
 statements and inner joins.
 
+# Directions to Open Files
+
+Data Engineering 
+-Open the file emp_table_schemata as a notepad file and examine.
+-Copy and Paste all the text into a query using SQL software preferably, PostgresSQL
+-Run the query to create tables.
+
+Data Analysis
+-After the tables have been created, open the employee_queries and examine the file.
+-Open a new query, copy and paste employee_queries text into query and run.
+
 
