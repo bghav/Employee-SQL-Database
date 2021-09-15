@@ -12,6 +12,9 @@ The data was imported in the following order:
 -Dept_manager
 -Dept_emp
 
+![image](https://user-images.githubusercontent.com/80291594/133357174-d428c8e6-9b8c-4935-8bbc-ad1a638e6893.png)
+
+
 After the data was imported properly, queries could be performed to make
 sense of the data and possible relationships. The queries consisted of select 
 statements and inner joins.
