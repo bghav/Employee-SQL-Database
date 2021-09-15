@@ -30,4 +30,7 @@ Data Analysis
 -After the tables have been created, open the employee_queries and examine the file.
 -Open a new query, copy and paste employee_queries text into query and run.
 
+![image](https://user-images.githubusercontent.com/80291594/133357688-a2ef3652-2847-42ce-b576-c82b7e361ac7.png)
+
+![image](https://user-images.githubusercontent.com/80291594/133357845-79ee80c0-7759-4d13-a281-711fd6c6492d.png)
 
